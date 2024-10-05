@@ -1,6 +1,6 @@
 {{
     config(
-    materialized = 'table',
+    materialized = 'incremental',
     on_schema_change = 'fail'
     )
 }}
