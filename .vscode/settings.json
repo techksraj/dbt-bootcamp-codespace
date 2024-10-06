@@ -3,4 +3,5 @@
         "*.sql": "jinja-sql"
     },
     "dbt.perspectiveTheme": "Vintage",
+    "dbt.enableNewLineagePanel": false,
 }
